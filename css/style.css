@@ -290,7 +290,7 @@ img {
     font-size: 22px;
     margin: 10px 0 10px;
     font-weight: 700;
-    display: inline-block;
+    display: block;
 }
 
 .product-dec h4 {
